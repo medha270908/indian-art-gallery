@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', 'Segoe UI', sans-serif;
+  background-color: #fdf6e9;
+  color: #2e2e2e;
+}
+
+h1, h2, h3 {
+  font-family: 'Georgia', serif;
+}
